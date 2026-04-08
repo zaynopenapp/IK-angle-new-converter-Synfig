@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas version="1.2" width="1920" height="1080" xres="2834.645669" yres="2834.645669" gamma-r="1.000000" gamma-g="1.000000" gamma-b="1.000000" view-box="-16.000000 9.000000 16.000000 -9.000000" antialias="1" fps="25.000" begin-time="0f" end-time="5s" bgcolor="0.500000 0.500000 0.500000 1.000000">
+  <name>data.sif</name>
+  <meta name="background_first_color" content="0.880000 0.880000 0.880000"/>
+  <meta name="background_rendering" content="0"/>
+  <meta name="background_second_color" content="0.650000 0.650000 0.650000"/>
+  <meta name="background_size" content="15.000000 15.000000"/>
+  <meta name="grid_color" content="0.623529 0.623529 0.623529"/>
+  <meta name="grid_show" content="0"/>
+  <meta name="grid_size" content="0.250000 0.250000"/>
+  <meta name="grid_snap" content="0"/>
+  <meta name="guide_color" content="0.435294 0.435294 1.000000"/>
+  <meta name="guide_show" content="1"/>
+  <meta name="guide_snap" content="0"/>
+  <meta name="jack_offset" content="0.000000"/>
+  <meta name="onion_skin" content="0"/>
+  <meta name="onion_skin_future" content="0"/>
+  <meta name="onion_skin_keyframes" content="1"/>
+  <meta name="onion_skin_past" content="1"/>
+  <meta name="status_ruler" content="1"/>
+  <keyframe time="0f" active="true"/>
+  <bones>
+    <bone_root type="bone_object" guid="2CBD0B130C3785899D79F9FFC63DD2BE"/>
+    <bone type="bone_object" guid="B2DE7088A216A22D5CCCF732E5E2B010">
+      <name>
+        <reverse type="string">
+          <link>
+            <string>Bone 9</string>
+          </link>
+        </reverse>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="2CBD0B130C3785899D79F9FFC63DD2BE"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>-0.6572234035</x>
+          <y>2.0717365742</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="-72.227684"/>
+      </angle>
+      <scalelx>
+        <real value="2.7817178862"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="102A376CA160E22CF84A2FB49FE35A72">
+      <name>
+        <string>Bone 10</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="B2DE7088A216A22D5CCCF732E5E2B010"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.1000000238</x>
+          <y>0.0000000000</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="-14.612693"/>
+      </angle>
+      <scalelx>
+        <real value="1.5329032643"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="3E426C75D9023D4FC4127217AC33E656">
+      <name>
+        <string>Bone 11</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="102A376CA160E22CF84A2FB49FE35A72"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.1000000238</x>
+          <y>0.0000000000</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="0.000000"/>
+      </angle>
+      <scalelx>
+        <real value="1.0000000000"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="1E347EB8B8EDD97F8FDB18CB4C77912F">
+      <name>
+        <greyed type="string">
+          <link>
+            <string>Bone 26</string>
+          </link>
+        </greyed>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="3E426C75D9023D4FC4127217AC33E656"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.1000000238</x>
+          <y>0.0000000000</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="0.000000"/>
+      </angle>
+      <scalelx>
+        <real value="1.0000000000"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+  </bones>
+  <layer type="solid_color" active="true" exclude_from_rendering="false" version="0.1" desc="Background">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0" static="true"/>
+    </param>
+    <param name="color">
+      <color>
+        <r>0.000000</r>
+        <g>0.310000</g>
+        <b>0.253446</b>
+        <a>1.000000</a>
+      </color>
+    </param>
+  </layer>
+  <layer type="skeleton" active="true" exclude_from_rendering="true" version="0.1">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="0.5000000000"/>
+    </param>
+    <param name="name">
+      <string>skeleton</string>
+    </param>
+    <param name="color">
+      <color>
+        <r>0.932828</r>
+        <g>0.464627</g>
+        <b>0.000000</b>
+        <a>1.000000</a>
+      </color>
+    </param>
+    <param name="bones">
+      <static_list type="bone_object">
+        <entry>
+          <bone type="bone_object" guid="1E347EB8B8EDD97F8FDB18CB4C77912F"/>
+        </entry>
+        <entry>
+          <bone type="bone_object" guid="3E426C75D9023D4FC4127217AC33E656"/>
+        </entry>
+        <entry>
+          <bone type="bone_object" guid="102A376CA160E22CF84A2FB49FE35A72"/>
+        </entry>
+        <entry>
+          <bone type="bone_object" guid="B2DE7088A216A22D5CCCF732E5E2B010"/>
+        </entry>
+      </static_list>
+    </param>
+  </layer>
+</canvas>

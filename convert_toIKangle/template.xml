@@ -1,0 +1,128 @@
+<dataumum>
+	<angle kunci = "IK2bone">
+    <ik type="angle">
+      <link_pole>
+        <vector guid="GUID_POLE">
+          <x>-2.0437765121</x>
+          <y>2.5404052734</y>
+        </vector>
+      </link_pole>
+      <link_target>
+        <vector guid="GUID_TARGET">
+          <x>-2.0080347061</x>
+          <y>-5.0464735031</y>
+        </vector>
+      </link_target>
+      <length_bone1>
+        <real guid="GUID_L1" value="1"/>
+      </length_bone1>
+      <length_bone2>
+        <real guid="GUID_L2" value="1"/>
+      </length_bone2>
+      <length_bone3>
+        <real value="99.0000000000"/>
+      </length_bone3>
+      <flip>
+        <bool guid="GUID_FLIP" value="false"/>
+      </flip>
+      <joint_bone>
+        <integer value="1"/>
+      </joint_bone>
+      <t_bone>
+        <integer value="2"/>
+      </t_bone>
+      <f_bone>
+        <integer value="BONE_IDX"/>
+      </f_bone>
+      <weight>
+        <real guid="GUID_WEIGHT" value="0.0000000000"/>
+      </weight>
+    </ik>
+  </angle>
+  <origin kunci ="IK_addorigin">
+    <add guid="GUID" type="vector">
+      <lhs>
+        <vector>
+          <x>0.0000000000</x>
+          <y>0.0000000000</y>
+        </vector>
+      </lhs>
+      <rhs>
+        <vector>
+          <x>0.0000000000</x>
+          <y>0.0000000000</y>
+        </vector>
+      </rhs>
+      <scalar>
+        <real value="1.0000000000"/>
+      </scalar>
+    </add>
+  </origin>
+  <scalelx kunci ="IK_lenghtbone">
+        <ik type="real">
+          <link_pole>
+            <add guid="GUID_POLE" type="vector">
+              <lhs>
+                <vector>
+                  <x>-0.1107411012</x>
+                  <y>1.5559326410</y>
+                </vector>
+              </lhs>
+              <rhs>
+                <vector>
+                  <x>0.0000000000</x>
+                  <y>0.0000000000</y>
+                </vector>
+              </rhs>
+              <scalar>
+                <real value="1.0000000000"/>
+              </scalar>
+            </add>
+          </link_pole>
+          <link_target>
+            <add guid="GUID_TARGET" type="vector">
+              <lhs>
+                <vector>
+                  <x>0.3315356970</x>
+                  <y>-3.4556376934</y>
+                </vector>
+              </lhs>
+              <rhs>
+                <vector>
+                  <x>0.0000000000</x>
+                  <y>0.0000000000</y>
+                </vector>
+              </rhs>
+              <scalar>
+                <real value="1.0000000000"/>
+              </scalar>
+            </add>
+          </link_target>
+          <length_bone1>
+            <real guid="GUID_L1" value="2.6515955393"/>
+          </length_bone1>
+          <length_bone2>
+            <real guid="GUID_L2" value="1.8903049486"/>
+          </length_bone2>
+          <length_bone3>
+            <real guid="GUID_L3" value="1.5544906026"/>
+          </length_bone3>
+          <flip>
+            <bool value="true"/>
+          </flip>
+          <joint_bone>
+            <integer value="2"/>
+          </joint_bone>
+          <t_bone>
+            <integer value="1"/>
+          </t_bone>
+          <f_bone>
+            <integer value="BONE_IDX"/>
+          </f_bone>
+          <weight>
+            <real value="25.0000000000"/>
+          </weight>
+        </ik>
+      </scalelx>
+  
+</dataumum>
