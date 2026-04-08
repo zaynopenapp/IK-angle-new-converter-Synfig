@@ -5,4 +5,5 @@ simple demo:
 https://youtu.be/5yXgffg6n3k
 
 new plugin IK angle: make ik angle more faster
+https://youtu.be/6Gkl8qKuWV0
 
