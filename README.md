@@ -5,10 +5,15 @@ now bone can strech and 3 joint bone
 <img width="600" height="538" alt="ikanglenew" src="https://github.com/user-attachments/assets/ffe88dbd-607f-47db-be0c-4dd97dae17fd" />
 
 ### Demo and tutorial
-- demo: https://youtu.be/5yXgffg6n3k
-- demo2: https://youtu.be/kgnKCwXtjIQ
-- ik human rig demo : https://youtu.be/pc9aGMSQWRM
-- tutorial link ik rig to body bone : https://youtu.be/RKLtrdsJjnc
+1. Demo
+   - [demo](https://youtu.be/5yXgffg6n3k)
+   - [demo2](https://youtu.be/kgnKCwXtjIQ)
+   - [ik human rig demo](https://youtu.be/pc9aGMSQWRM)
+2. Tutorial
+   * <details><summary>List</summary>
+       - [tutorial link ik rig to body bone](https://youtu.be/RKLtrdsJjnc)
+
+   </details>
 
 ### Plugin IK angle
 make ik angle with plugin can more faster
