@@ -9,15 +9,16 @@ now bone can strech and 3 joint bone
    - [demo](https://youtu.be/5yXgffg6n3k)
    - [demo2](https://youtu.be/kgnKCwXtjIQ)
    - [ik human rig demo](https://youtu.be/pc9aGMSQWRM)
-2. Tutorial
-   * <details><summary>List</summary>
-       - [tutorial link ik rig to body bone](https://youtu.be/RKLtrdsJjnc)
+
+2. <details><summary>Tutorial</summary>
+   
+   - [tutorial link ik rig to body bone](https://youtu.be/RKLtrdsJjnc)
 
    </details>
 
 ### Plugin IK angle
 make ik angle with plugin can more faster
-- tutorial : https://youtu.be/6Gkl8qKuWV0
+- [tutorial](https://youtu.be/6Gkl8qKuWV0)
 ### Download synfig windows
 for windows user can test synfig here: https://ci.appveyor.com/project/Synfig/synfig/builds/53957004/artifacts
 
