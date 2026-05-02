@@ -2,7 +2,8 @@
 
 now bone can strech and 3 joint bone
 -
-<img width="600" height="538" alt="ikanglenew" src="https://github.com/user-attachments/assets/ffe88dbd-607f-47db-be0c-4dd97dae17fd" />
+<img width="400" height="359" alt="ikangle new" src="https://github.com/user-attachments/assets/14b2a7a8-6ee3-4c61-9980-d718312eec72" />
+
 
 ### Demo and tutorial
 1. Demo
@@ -18,8 +19,9 @@ now bone can strech and 3 joint bone
 
 ### Plugin IK angle
 make ik angle with plugin can more faster
+- Video tutorial
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6Gkl8qKuWV0/3.jpg)](http://www.youtube.com/watch?v=6Gkl8qKuWV0)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6Gkl8qKuWV0/maxresdefault.jpg)](http://www.youtube.com/watch?v=6Gkl8qKuWV0)
 
 ### Download synfig windows
 for windows user can test synfig here: https://ci.appveyor.com/project/Synfig/synfig/builds/53957004/artifacts
@@ -32,3 +34,5 @@ I am also active on synfig forums: (https://forums.synfig.org/t/ik-angle-convert
 - IK manual : https://mailcatrobert.gumroad.com/l/ifiaws
 - Smartkey (smartbone synfig) :https://mailcatrobert.gumroad.com/l/mghttf
 - IK manual for deformation bone : https://mailcatrobert.gumroad.com/l/vsxubv
+
+
