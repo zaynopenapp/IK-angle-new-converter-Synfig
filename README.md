@@ -18,7 +18,9 @@ now bone can strech and 3 joint bone
 
 ### Plugin IK angle
 make ik angle with plugin can more faster
-- [tutorial](https://youtu.be/6Gkl8qKuWV0)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6Gkl8qKuWV0/3.jpg)](http://www.youtube.com/watch?v=6Gkl8qKuWV0)
+
 ### Download synfig windows
 for windows user can test synfig here: https://ci.appveyor.com/project/Synfig/synfig/builds/53957004/artifacts
 
