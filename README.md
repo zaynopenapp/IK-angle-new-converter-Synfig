@@ -1,14 +1,17 @@
-# IK-angle-new-converter-Synfig
+# IK angle (new converter Synfig)
+Now bone can stretch and 3 joint bone
 
-now bone can strech and 3 joint bone
--
 <img width="400" height="359" alt="ikangle new" src="https://github.com/user-attachments/assets/14b2a7a8-6ee3-4c61-9980-d718312eec72" />
 
 ### Converter have 3 function
 * As angle IK (angle bone 1, bone 2 and bone 3[^1])
     <img width="1961" height="1321" alt="ikangle_tuto" src="https://github.com/user-attachments/assets/1ccda642-2db6-4ff2-8487-71708cc8bade" />
 * As Elbow IK (Origin bone 2 and bone 3 [^1])
+    - This setup requires additional converters, such as vector angle and subtrack
 * As lenght bone IK (local lenght scale bone 1, bone 2 , bone 3 [^1])
+    - *Acts as a stretch bone*
+    - *The required data is almost the same* <img width="526" height="210" alt="linkdata" src="https://github.com/user-attachments/assets/ba9ed8df-5041-4a31-bdef-7ea829cab064" />
+
 
 [^1]: Only in 3 joints bones.
 
