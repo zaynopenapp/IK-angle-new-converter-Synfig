@@ -6,10 +6,13 @@ now bone can strech and 3 joint bone
 
 -
 ### Converter have 3 function
-* As angle IK (angle bone)
+* As angle IK (angle bone 1, bone 2 and bone 3[^1])
     <img width="1961" height="1321" alt="ikangle_tuto" src="https://github.com/user-attachments/assets/1ccda642-2db6-4ff2-8487-71708cc8bade" />
-* As Elbow (Origin bone 2 and bone 2)
-* As lenght bone (local lenght scale bone 1, bone 2 , bone 3[3 joint only])
+* As Elbow (Origin bone 2 and bone 3 [^1])
+* As lenght bone (local lenght scale bone 1, bone 2 , bone 3 [^1])
+
+[^1]: Only in 3 joints bones.
+
   
 ### Demo and tutorial
 
@@ -31,15 +34,15 @@ make ik angle with plugin can more faster
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6Gkl8qKuWV0/maxresdefault.jpg)](http://www.youtube.com/watch?v=6Gkl8qKuWV0)
 
 ### Download synfig windows
-for windows user can test synfig here: https://ci.appveyor.com/project/Synfig/synfig/builds/53957004/artifacts
+*[for windows user can test synfig here:](https://ci.appveyor.com/project/Synfig/synfig/builds/53957004/artifacts)
 
 ### I have more questions, what should I do ?
-I am also active on synfig forums: (https://forums.synfig.org/t/ik-angle-converter-test/16552/10)
+   * [I am also active on synfig forums](https://forums.synfig.org/t/ik-angle-converter-test/16552/10)
 
 ### More plugin synfig:
-- Wayang : https://github.com/zaynopenapp/Wayang
-- IK manual : https://mailcatrobert.gumroad.com/l/ifiaws
-- Smartkey (smartbone synfig) :https://mailcatrobert.gumroad.com/l/mghttf
-- IK manual for deformation bone : https://mailcatrobert.gumroad.com/l/vsxubv
+- [Wayang](https://github.com/zaynopenapp/Wayang)
+- [IK manual](https://mailcatrobert.gumroad.com/l/ifiaws)
+- [Smartkey (smartbone synfig)](https://mailcatrobert.gumroad.com/l/mghttf)
+- [IK manual for deformation bone](https://mailcatrobert.gumroad.com/l/vsxubv)
 
 
