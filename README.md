@@ -18,15 +18,17 @@ Now bone can stretch and 3 joint bone
 
 [^1]: Only in 3 joints bones.
 
+
+### Valuenode
+<img width="539" height="192" alt="ket" src="https://github.com/user-attachments/assets/d3a2838b-9ece-4bd0-81b7-5c9288ce1309" />
+
 <details><summary> The following describes the function of the value node </summary>
     
-    <img width="539" height="192" alt="ket" src="https://github.com/user-attachments/assets/d3a2838b-9ece-4bd0-81b7-5c9288ce1309" />
-
     1. The position of the pole bone
     2. The position of the target bone
     3. The length of bone 1
     4. The length of bone 2
-    5. The length of bone 3 [^1]
+    5. The length of bone 3
     6. The rig’s direction (flip)
     7. The bone type (2-joint or 3-joint)
     8. The bone category (animal leg or arm)
@@ -35,13 +37,15 @@ Now bone can stretch and 3 joint bone
 
 </details>
 
-
 ### Demo and tutorial
 
-1. Demo
+1. <details><summary>Demo</summary>
+    
    - [demo](https://youtu.be/5yXgffg6n3k)
    - [demo2](https://youtu.be/kgnKCwXtjIQ)
    - [ik human rig demo](https://youtu.be/pc9aGMSQWRM)
+
+   </details>
 
 2. <details><summary>Tutorial</summary>
    
@@ -49,22 +53,26 @@ Now bone can stretch and 3 joint bone
 
    </details>
 
+***
 ### Plugin IK angle
 make ik angle with plugin can more faster
 - Video tutorial
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6Gkl8qKuWV0/maxresdefault.jpg)](http://www.youtube.com/watch?v=6Gkl8qKuWV0)
 
-### Download synfig windows
+### Download synfig 1.5.5 windows
 >[for windows user can test synfig here:](https://ci.appveyor.com/project/Synfig/synfig/builds/53957004/artifacts)
 
 ### I have more questions, what should I do ?
-   * [I am also active on synfig forums](https://forums.synfig.org/t/ik-angle-converter-test/16552/10)
+>[I am also active on synfig forums](https://forums.synfig.org/t/ik-angle-converter-test/16552/10)
 
 ### More plugin synfig:
+<details><summary>Plugins</summary>
+    
 - [Wayang](https://github.com/zaynopenapp/Wayang)
 - [IK manual](https://mailcatrobert.gumroad.com/l/ifiaws)
 - [Smartkey (smartbone synfig)](https://mailcatrobert.gumroad.com/l/mghttf)
 - [IK manual for deformation bone](https://mailcatrobert.gumroad.com/l/vsxubv)
-
+    
+</details>
 
