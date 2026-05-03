@@ -6,6 +6,7 @@ Now bone can stretch and 3 joint bone
 ### Converter have 3 function
 * As angle IK (angle bone 1, bone 2 and bone 3[^1])
     <img width="1961" height="1321" alt="ikangle_tuto" src="https://github.com/user-attachments/assets/1ccda642-2db6-4ff2-8487-71708cc8bade" />
+
 * As Elbow IK (Origin bone 2 and bone 3 [^1])
     - *This setup requires additional converters, such as vector angle and subtrack*
     - *Here is how to calculate the angle of bone 1* <img width="559" height="282" alt="elbow1" src="https://github.com/user-attachments/assets/ccd12012-8b0e-4e53-92da-7dcc7eb0b589" />
@@ -17,7 +18,9 @@ Now bone can stretch and 3 joint bone
 
 [^1]: Only in 3 joints bones.
 
-  
+### The following describes the function of the value node
+
+
 ### Demo and tutorial
 
 1. Demo
