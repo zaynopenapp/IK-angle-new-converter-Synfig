@@ -7,7 +7,9 @@ Now bone can stretch and 3 joint bone
 * As angle IK (angle bone 1, bone 2 and bone 3[^1])
     <img width="1961" height="1321" alt="ikangle_tuto" src="https://github.com/user-attachments/assets/1ccda642-2db6-4ff2-8487-71708cc8bade" />
 * As Elbow IK (Origin bone 2 and bone 3 [^1])
-    - This setup requires additional converters, such as vector angle and subtrack
+    - *This setup requires additional converters, such as vector angle and subtrack*
+    - *Here is how to calculate the angle of bone 1* <img width="559" height="282" alt="elbow1" src="https://github.com/user-attachments/assets/ccd12012-8b0e-4e53-92da-7dcc7eb0b589" />
+
 * As lenght bone IK (local lenght scale bone 1, bone 2 , bone 3 [^1])
     - *Acts as a stretch bone*
     - *The required data is almost the same* <img width="526" height="210" alt="linkdata" src="https://github.com/user-attachments/assets/ba9ed8df-5041-4a31-bdef-7ea829cab064" />
