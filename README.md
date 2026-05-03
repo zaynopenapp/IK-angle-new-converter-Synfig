@@ -18,7 +18,22 @@ Now bone can stretch and 3 joint bone
 
 [^1]: Only in 3 joints bones.
 
-### The following describes the function of the value node
+<details><summary> The following describes the function of the value node </summary>
+    
+    <img width="539" height="192" alt="ket" src="https://github.com/user-attachments/assets/d3a2838b-9ece-4bd0-81b7-5c9288ce1309" />
+
+    1. The position of the pole bone
+    2. The position of the target bone
+    3. The length of bone 1
+    4. The length of bone 2
+    5. The length of bone 3 [^1]
+    6. The rig’s direction (flip)
+    7. The bone type (2-joint or 3-joint)
+    8. The bone category (animal leg or arm)
+    9. For the bone
+    10. Bone effect (0–100%)
+
+</details>
 
 
 ### Demo and tutorial
