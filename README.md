@@ -4,8 +4,15 @@ now bone can strech and 3 joint bone
 -
 <img width="400" height="359" alt="ikangle new" src="https://github.com/user-attachments/assets/14b2a7a8-6ee3-4c61-9980-d718312eec72" />
 
-
+-
+### Converter have 3 function
+* As angle IK (angle bone)
+    <img width="1961" height="1321" alt="ikangle_tuto" src="https://github.com/user-attachments/assets/1ccda642-2db6-4ff2-8487-71708cc8bade" />
+* As Elbow (Origin bone 2 and bone 2)
+* As lenght bone (local lenght scale bone 1, bone 2 , bone 3[3 joint only])
+  
 ### Demo and tutorial
+
 1. Demo
    - [demo](https://youtu.be/5yXgffg6n3k)
    - [demo2](https://youtu.be/kgnKCwXtjIQ)
