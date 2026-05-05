@@ -54,14 +54,17 @@ Now bone can stretch and 3 joint bone
    </details>
 
 ***
+
+### Download synfig 1.5.5 windows and linux
+>[for windows user can test synfig here:](https://ci.appveyor.com/project/Synfig/synfig/builds/53957004/artifacts)
+
+>[for linux user can test synfig appimage here:](https://drive.google.com/file/d/13pyL3rrpPGlnWr4X7nhsDfhl26prmkL8/view?usp=drive_link)
+
 ### Plugin IK angle
 make ik angle with plugin can more faster
 - Video tutorial
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6Gkl8qKuWV0/maxresdefault.jpg)](http://www.youtube.com/watch?v=6Gkl8qKuWV0)
-
-### Download synfig 1.5.5 windows
->[for windows user can test synfig here:](https://ci.appveyor.com/project/Synfig/synfig/builds/53957004/artifacts)
 
 ### I have more questions, what should I do ?
 >[I am also active on synfig forums](https://forums.synfig.org/t/ik-angle-converter-test/16552/10)
