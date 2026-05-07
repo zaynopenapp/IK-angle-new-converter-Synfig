@@ -22,6 +22,7 @@ Now bone can stretch and 3 joint bone
 ### Valuenode
 <img width="539" height="192" alt="ket" src="https://github.com/user-attachments/assets/d3a2838b-9ece-4bd0-81b7-5c9288ce1309" />
 
+
 <details><summary> The following describes the function of the value node </summary>
     
     1. The position of the pole bone
@@ -45,7 +46,6 @@ Now bone can stretch and 3 joint bone
    - [demo2](https://youtu.be/kgnKCwXtjIQ)
    - [ik human rig demo](https://youtu.be/pc9aGMSQWRM)
    
-
    </details>
 
 2. <details><summary>Tutorial</summary>
