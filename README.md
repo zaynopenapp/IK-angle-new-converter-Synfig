@@ -44,6 +44,7 @@ Now bone can stretch and 3 joint bone
    - [demo](https://youtu.be/5yXgffg6n3k)
    - [demo2](https://youtu.be/kgnKCwXtjIQ)
    - [ik human rig demo](https://youtu.be/pc9aGMSQWRM)
+   - [how build synfig](https://youtu.be/R-75fSEQugY)
 
    </details>
 
