@@ -52,6 +52,7 @@ Now bone can stretch and 3 joint bone
    
    - [tutorial link ik rig to body bone](https://youtu.be/RKLtrdsJjnc)
    - [how build synfigsudio](https://youtu.be/R-75fSEQugY)
+   - [make flip controller](https://youtu.be/gKZrjq-eJeU)
 
    </details>
 
